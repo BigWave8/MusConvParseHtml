@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusConv", "MusConv\MusConv.csproj", "{3180E121-146D-4C72-99A3-983EFF910A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3180E121-146D-4C72-99A3-983EFF910A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3180E121-146D-4C72-99A3-983EFF910A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3180E121-146D-4C72-99A3-983EFF910A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3180E121-146D-4C72-99A3-983EFF910A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41674B1D-5D2F-4652-AB6C-87F2358CE43B}
+	EndGlobalSection
+EndGlobal
